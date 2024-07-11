@@ -2,25 +2,16 @@
 
 **`Developer`**
 
-Hey everyone! 🚀 I'm Abijith S, a curious coder exploring the digital frontier. From algorithms to web development, I'm here to make pixels dance!
+Hey everyone! 🚀 I'm Abijith S, Software Engineer by day, gamer by night. Building the future with code & getting lost in a good book in my free time. Let's connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abijith-suresh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/abijith_io"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/abijith_sh"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/Abijith-Suresh?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Abijith-Suresh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Abijith-Suresh/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
 
 ---
 
