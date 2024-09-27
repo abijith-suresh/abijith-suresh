@@ -15,7 +15,7 @@
 <br>
 
 ## My Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abijith-suresh&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abijith-suresh&theme=catppuccin_mocha&hide_border=true" alt="Streak Stats" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abijith-suresh&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Top Languages" /> -->
