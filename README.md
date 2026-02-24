@@ -8,13 +8,9 @@
   <b>Developer 1 - Software Engineering @ UST</b>
 </p>
 
----
-
 ## About
 
 Computer Science Engineering Graduate passionate about building software and exploring new technologies. Currently focused on mastering full-stack development.
-
----
 
 ## Tech Stack
 
@@ -45,13 +41,9 @@ Computer Science Engineering Graduate passionate about building software and exp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
----
-
 ## Currently Building
 
 Working on microservice applications using **Spring Boot** with **React/Next.js** frontends. Expanding skills across Node.js, Python/FastAPI, and various databases.
-
----
 
 ## GitHub Stats
 
@@ -62,13 +54,9 @@ Working on microservice applications using **Spring Boot** with **React/Next.js*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abijith-suresh&theme=catppuccin_mocha&hide_border=true" alt="Streak Stats" />
 </p>
 
----
-
 ## Beyond Code
 
 Reading books, manga, manhwa, and comics — love well-crafted stories regardless of genre.
-
----
 
 ## Connect
 
@@ -83,8 +71,6 @@ Reading books, manga, manhwa, and comics — love well-crafted stories regardles
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abijith-suresh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
