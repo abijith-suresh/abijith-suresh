@@ -45,15 +45,6 @@ Computer Science Engineering Graduate passionate about building software and exp
 
 Working on microservice applications using **Spring Boot** with **React/Next.js** frontends. Expanding skills across Node.js, Python/FastAPI, and various databases.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abijith-suresh&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abijith-suresh&theme=catppuccin_mocha&hide_border=true" alt="Streak Stats" />
-</p>
-
 ## Beyond Code
 
 Reading books, manga, manhwa, and comics — love well-crafted stories regardless of genre.
